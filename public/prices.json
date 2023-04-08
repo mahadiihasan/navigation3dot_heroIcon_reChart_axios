@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "membershipType": "Basic",
+        "price": 50.00,
+        "benefits": [
+            "Access to gym equipment",
+            "Locker rental"
+        ]
+    },
+    {
+        "id": 2,
+        "membershipType": "Premium",
+        "price": 75.00,
+        "benefits": [
+            "Access to gym equipment",
+            "Locker rental",
+            "Group fitness classes",
+            "Personal training session"
+        ]
+    },
+    {
+        "id": 3,
+        "membershipType": "VIP",
+        "price": 100.00,
+        "benefits": [
+            "Access to gym equipment",
+            "Locker rental",
+            "Group fitness classes",
+            "Personal training session",
+            "Sauna and spa access"
+        ]
+    }
+]
